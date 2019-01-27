@@ -118,10 +118,11 @@ This repo is an attempt to catalog and keep track of publications in the field o
 1. [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://openreview.net/forum?id=r1Cy5yrKx)
 
 **Defences**
+1. [Adversarial Machine Learning at Scale](https://openreview.net/forum?id=BJm4T4Kgx)
 1. [DeepCloak: Masking Deep Neural Network Models for Robustness Against Adversarial Samples](https://openreview.net/forum?id=r1X_kR4Yl)
-2. [Adversarial Training Methods for Semi-Supervised Text Classification](https://openreview.net/forum?id=r1X3g2_xl)
-3. [Early Methods for Detecting Adversarial Images](https://openreview.net/forum?id=B1dexpDug)
-4. [Robustness to Adversarial Examples through an Ensemble of Specialists](https://openreview.net/forum?id=S1cYxlSFx)
+1. [Adversarial Training Methods for Semi-Supervised Text Classification](https://openreview.net/forum?id=r1X3g2_xl)
+1. [Early Methods for Detecting Adversarial Images](https://openreview.net/forum?id=B1dexpDug)
+1. [Robustness to Adversarial Examples through an Ensemble of Specialists](https://openreview.net/forum?id=S1cYxlSFx)
 
 **Analysis**
 1. [Delving into adversarial attacks on deep policies](https://openreview.net/forum?id=BJcib5mFe)
