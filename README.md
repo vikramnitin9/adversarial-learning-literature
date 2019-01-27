@@ -99,12 +99,47 @@ This repo is an attempt to catalog and keep track of publications in the field o
 1. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://openreview.net/forum?id=BkJ3ibb0-)
 1. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ)
 1. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z)
-
-**Verification**
-(None)
+1. [Certifying Some Distributional Robustness with Principled Adversarial Training](https://openreview.net/forum?id=Hk6kPgZA-)
 
 **Analysis**
 1. [Decision Boundary Analysis of Adversarial Examples](https://openreview.net/forum?id=BkpiPMbA-)
+1. [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://openreview.net/forum?id=B1gJ1L2aW)
+
+## NIPS 2017 :
+1. [Houdini: Fooling Deep Structured Visual and Speech Recognition Models with Adversarial Examples](http://papers.nips.cc/paper/7273-houdini-fooling-deep-structured-visual-and-speech-recognition-models-with-adversarial-examples)
+1. [Formal Guarantees on the Robustness of a Classifier against Adversarial Manipulation](http://papers.nips.cc/paper/6821-formal-guarantees-on-the-robustness-of-a-classifier-against-adversarial-manipulation)
+1. [Lower bounds on the robustness to adversarial perturbations](http://papers.nips.cc/paper/6682-lower-bounds-on-the-robustness-to-adversarial-perturbations)
+
+## ICML 2017
+1. [Parseval Networks: Improving Robustness to Adversarial Examples](http://proceedings.mlr.press/v70/cisse17a.html)
+
+## ICLR 2017
+**Attacks**
+1. [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://openreview.net/forum?id=r1Cy5yrKx)
+
+**Defences**
+1. [DeepCloak: Masking Deep Neural Network Models for Robustness Against Adversarial Samples](https://openreview.net/forum?id=r1X_kR4Yl)
+2. [Adversarial Training Methods for Semi-Supervised Text Classification](https://openreview.net/forum?id=r1X3g2_xl)
+3. [Early Methods for Detecting Adversarial Images](https://openreview.net/forum?id=B1dexpDug)
+4. [Robustness to Adversarial Examples through an Ensemble of Specialists](https://openreview.net/forum?id=S1cYxlSFx)
+
+**Analysis**
+1. [Delving into adversarial attacks on deep policies](https://openreview.net/forum?id=BJcib5mFe)
+
+## NIPS 2016 :
+1. [Robustness of classifiers: from adversarial to random noise](http://papers.nips.cc/paper/6331-robustness-of-classifiers-from-adversarial-to-random-noise)
+1. [Measuring Neural Net Robustness with Constraints](http://papers.nips.cc/paper/6339-measuring-neural-net-robustness-with-constraints)
+
+## ICLR 2016 :
+1. [Distributional Smoothing with Virtual Adversarial Training](https://arxiv.org/abs/1507.00677)
+2. [Adversarial Manipulation of Deep Representations](https://arxiv.org/abs/1511.05122)
+
+## ICLR 2015 :
+1. [Explaining and Harnessing Adversarial Examples](http://arxiv.org/abs/1412.6572)
+2. [Towards Deep Neural Network Architectures Robust to Adversarial Examples](http://arxiv.org/abs/1412.5068)
+
+## NIPS 2014 :
+1. [Feature Cross-Substitution in Adversarial Classification](http://papers.nips.cc/paper/5510-feature-cross-substitution-in-adversarial-classification)
 
 ## ICLR 2014 :
 
