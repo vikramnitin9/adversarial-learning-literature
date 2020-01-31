@@ -181,6 +181,7 @@ This repo is an attempt to catalog and keep track of publications in the field o
 1. [Ensemble Adversarial Training: Attacks and Defenses](https://openreview.net/forum?id=rkZvSe-RZ)
 1. [Mitigating Adversarial Effects Through Randomization](https://openreview.net/forum?id=Sk9yuql0Z)
 1. [Certifying Some Distributional Robustness with Principled Adversarial Training](https://openreview.net/forum?id=Hk6kPgZA-)
+1. [Cascade Adversarial Machine Learning Regularized with a Unified Embedding](https://openreview.net/forum?id=HyRVBzap-)
 
 **Analysis**
 1. [Decision Boundary Analysis of Adversarial Examples](https://openreview.net/forum?id=BkpiPMbA-)
