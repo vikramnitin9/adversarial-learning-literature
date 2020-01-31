@@ -1,6 +1,51 @@
 # Adversarial learning literature :
 This repo is an attempt to catalog and keep track of publications in the field of Adversarial Machine Learning. This includes Adversarial Attacks, Defences, Robustness Verification and Analysis.
 
+## NeurIPS 2019 
+**Attacks**
+1. [Subspace Attack: Exploiting Promising Subspaces for Query-Efficient Black-box Attacks](https://papers.nips.cc/paper/8638-subspace-attack-exploiting-promising-subspaces-for-query-efficient-black-box-attacks)
+1. [Functional Adversarial Attacks](https://papers.nips.cc/paper/9228-functional-adversarial-attacks)
+1. [Cross-Modal Learning with Adversarial Samples](https://papers.nips.cc/paper/9262-cross-modal-learning-with-adversarial-samples)
+1. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://papers.nips.cc/paper/9275-improving-black-box-adversarial-attacks-with-a-transfer-based-prior)
+1. [Adversarial Music: Real world Audio Adversary against Wake-word Detection System](https://papers.nips.cc/paper/9362-adversarial-music-real-world-audio-adversary-against-wake-word-detection-system)
+1. [Cross-Domain Transferability of Adversarial Perturbations](https://papers.nips.cc/paper/9450-cross-domain-transferability-of-adversarial-perturbations)
+
+
+**Defences**
+1. [Metric Learning for Adversarial Robustness](https://papers.nips.cc/paper/8339-metric-learning-for-adversarial-robustness)
+1. [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training](https://papers.nips.cc/paper/8459-defense-against-adversarial-attacks-using-feature-scattering-based-adversarial-training)
+1. [Adversarial training for free!](https://papers.nips.cc/paper/8597-adversarial-training-for-free)
+1. [On Single Source Robustness in Deep Fusion Models](https://papers.nips.cc/paper/8728-on-single-source-robustness-in-deep-fusion-models)
+1. [Certified Adversarial Robustness with Additive Noise](https://papers.nips.cc/paper/9143-certified-adversarial-robustness-with-additive-noise)
+1. [Certifiable Robustness to Graph Perturbations](https://papers.nips.cc/paper/9041-certifiable-robustness-to-graph-perturbations)
+1. [Unlabeled Data Improves Adversarial Robustness](https://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness)
+1. [Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers](https://papers.nips.cc/paper/9307-provably-robust-deep-learning-via-adversarially-trained-smoothed-classifiers)
+1. [Provably robust boosted decision stumps and trees against adversarial attacks](https://papers.nips.cc/paper/9460-provably-robust-boosted-decision-stumps-and-trees-against-adversarial-attacks)
+1. [Adversarial Robustness through Local Linearization](https://papers.nips.cc/paper/9534-adversarial-robustness-through-local-linearization)
+1. [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://papers.nips.cc/paper/9697-using-self-supervised-learning-can-improve-model-robustness-and-uncertainty)
+
+**Verification**
+1. [Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers](https://papers.nips.cc/paper/8737-tight-certificates-of-adversarial-robustness-for-randomly-smoothed-classifiers)
+1. [A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks](https://papers.nips.cc/paper/9176-a-convex-relaxation-barrier-to-tight-robustness-verification-of-neural-networks)
+1. [Robustness Verification of Tree-based Models](https://papers.nips.cc/paper/9399-robustness-verification-of-tree-based-models)
+1. [Accurate, reliable and fast robustness evaluation](https://papers.nips.cc/paper/9446-accurate-reliable-and-fast-robustness-evaluation)
+1. [Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes](https://papers.nips.cc/paper/9555-provable-certificates-for-adversarial-examples-fitting-a-ball-in-the-union-of-polytopes)
+
+**Analysis**
+1. [Adversarial Examples Are Not Bugs, They Are Features](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features)
+1. [Image Synthesis with a Single (Robust) Classifier](https://papers.nips.cc/paper/8409-image-synthesis-with-a-single-robust-classifier.pdf)
+1. [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework)
+1. [Robustness to Adversarial Perturbations in Learning from Incomplete Data](https://papers.nips.cc/paper/8792-robustness-to-adversarial-perturbations-in-learning-from-incomplete-data)
+1. [Adversarial Training and Robustness for Multiple Perturbations](https://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations)
+1. [On the Hardness of Robust Classification](https://papers.nips.cc/paper/8963-on-the-hardness-of-robust-classification)
+1. [Theoretical evidence for adversarial robustness through randomization](https://papers.nips.cc/paper/9356-theoretical-evidence-for-adversarial-robustness-through-randomization)
+1. [Are Labels Required for Improving Adversarial Robustness?](https://papers.nips.cc/paper/9388-are-labels-required-for-improving-adversarial-robustness)
+1. [Theoretical Analysis of Adversarial Learning: A Minimax Approach](https://papers.nips.cc/paper/9394-theoretical-analysis-of-adversarial-learning-a-minimax-approach)
+1. [Convergence of Adversarial Training in Overparametrized Neural Networks](https://papers.nips.cc/paper/9461-convergence-of-adversarial-training-in-overparametrized-neural-networks)
+1. [A Fourier Perspective on Model Robustness in Computer Vision](https://papers.nips.cc/paper/9483-a-fourier-perspective-on-model-robustness-in-computer-vision)
+1. [On Robustness to Adversarial Examples and Polynomial Optimization](https://papers.nips.cc/paper/9526-on-robustness-to-adversarial-examples-and-polynomial-optimization)
+1. [On Relating Explanations and Adversarial Examples](https://papers.nips.cc/paper/9717-on-relating-explanations-and-adversarial-examples)
+
 ## ICML 2019
 **Attacks**
 1. [Adversarial Attacks on Node Embeddings via Graph Poisoning](http://proceedings.mlr.press/v97/bojchevski19a.html)
