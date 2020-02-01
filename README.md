@@ -1,5 +1,5 @@
 # Adversarial learning literature :
-This repo is an attempt to catalog and keep track of publications in the field of Adversarial Machine Learning. This includes Adversarial Attacks, Defences, Robustness Verification and Analysis.
+This repo is an attempt to catalog and keep track of publications in the field of Adversarial Machine Learning. This includes Adversarial Attacks, Defences, Robustness Verification and Analysis. Feel free to open a PR if you feel there are papers that I have missed, or if you'd like to add papers from another conference not in this list.
 
 ## NeurIPS 2019 
 **Attacks**
