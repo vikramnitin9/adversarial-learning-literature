@@ -9,6 +9,7 @@ This repo is an attempt to catalog and keep track of publications in the field o
 1. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://papers.nips.cc/paper/9275-improving-black-box-adversarial-attacks-with-a-transfer-based-prior)
 1. [Adversarial Music: Real world Audio Adversary against Wake-word Detection System](https://papers.nips.cc/paper/9362-adversarial-music-real-world-audio-adversary-against-wake-word-detection-system)
 1. [Cross-Domain Transferability of Adversarial Perturbations](https://papers.nips.cc/paper/9450-cross-domain-transferability-of-adversarial-perturbations)
+1. [Fooling Neural Network Interpretations via Adversarial Model Manipulation](https://papers.nips.cc/paper/8558-fooling-neural-network-interpretations-via-adversarial-model-manipulation)
 
 
 **Defences**
