@@ -23,6 +23,7 @@ This repo is an attempt to catalog and keep track of publications in the field o
 1. [Provably robust boosted decision stumps and trees against adversarial attacks](https://papers.nips.cc/paper/9460-provably-robust-boosted-decision-stumps-and-trees-against-adversarial-attacks)
 1. [Adversarial Robustness through Local Linearization](https://papers.nips.cc/paper/9534-adversarial-robustness-through-local-linearization)
 1. [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://papers.nips.cc/paper/9697-using-self-supervised-learning-can-improve-model-robustness-and-uncertainty)
+1. [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](https://papers.nips.cc/paper/8441-a-new-defense-against-adversarial-images-turning-a-weakness-into-a-strength)
 
 **Verification**
 1. [Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers](https://papers.nips.cc/paper/8737-tight-certificates-of-adversarial-robustness-for-randomly-smoothed-classifiers)
